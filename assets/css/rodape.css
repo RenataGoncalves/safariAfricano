@@ -1,0 +1,8 @@
+.rodape{
+    background-image: linear-gradient(to bottom, #000000, #111111, #1c1c1c, #272727, #323232);
+    height: 80px; 
+}
+
+.imagem-rodape{
+    padding-top: 20px;
+}

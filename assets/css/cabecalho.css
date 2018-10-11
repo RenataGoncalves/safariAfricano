@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title-site{
+    color: white;
+    padding-top: 20px;
+    font-family: 'Caveat', cursive;
+}
+
+.cabecalho{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.menu{
+    background-image: linear-gradient(to bottom, #000000, #1d1d1d, #343333, #4d4b4c, #676565);
+    /*padding: 0px 70px;*/ 
+}
+.menu > div > div > ul{
+    list-style: none;
+    display: flex;  
+}
+.menu > div >div> ul > li{
+    padding: 25px;
+    
+}
+.menu-link:hover{
+    text-decoration: underline; 
+    font-size: 22px;
+ 
+  
+}
+.menu-link{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;  
+
+}
+
+

@@ -1,0 +1,52 @@
+
+.formulario{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 600px;
+    margin: 20px;
+    margin-left: 20px;
+}
+
+.txt-label{
+    color: #000;
+    font-size: 20px;
+    display: block;
+    padding: 10px 0px;
+}
+
+.txt-campo{
+    display: block;
+    padding: 10px;
+    width: 600px;
+    color: #000000;
+    font-size: 14px;
+    border: none;
+    border-bottom: 2px black solid;
+
+}
+
+.mensagem{
+    padding: 10px;
+    display: block;
+    color: #000000;
+    font-size: 14px;
+    border: none;
+    width: 600px;
+    border-bottom: 2px black solid;
+}
+
+
+.botao{
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: black;
+    border: none;
+    font-size:16px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    width: 620px;
+}
+

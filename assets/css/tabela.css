@@ -1,0 +1,17 @@
+.tabela{
+    border: 1px #000 solid;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 10px auto;
+}
+.tabela th, .tabela td {
+    font-family: 'Roboto','sans-serif';
+    border: 1px black solid;
+    color: black;
+    background-color: lightgray;
+    padding: 10px;
+    text-align: center;
+}
+.tab{
+    padding-bottom: 25px;
+}

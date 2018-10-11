@@ -1,0 +1,84 @@
+.box{
+    max-width: 1200px;
+    margin: 0 auto;    
+}
+
+.conteudo-site{
+    display: flex;
+    flex-direction: row;    
+}
+.box-conteudo{ 
+    width: 600px;
+    padding-top: 80px;
+}
+.titulo{
+    padding-top: 10px;
+    font-size: 27px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.texto{
+    padding-top: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    line-height: 23px;
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.img{
+    padding: 25px;
+    padding-left: 60px;
+    width: 80%;
+    height: 80%;
+ }
+.imagem-box{
+    width: 100%;
+}
+
+
+/*CSS ATIVIDADE*/
+.box-atividade{
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+}
+.titulo-principal{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 35px;
+    
+}
+.t-texto{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.imagem-atividade{
+    width: 90%;
+    padding-left: 15px;
+    padding-top: 25px;
+}
+.titulo-atividades{
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 10px;
+}
+
+/*CSS NOSSOS CAMPOS*/
+.imagem-campo{
+    width:90%; 
+    padding-left: 25px;
+}
+.lista{
+    text-align: center;
+    list-style: none;
+    font-family: 'Roboto',sans-serif;
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+
